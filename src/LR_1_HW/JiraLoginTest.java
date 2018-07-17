@@ -17,5 +17,6 @@ public class JiraLoginTest {
     loginPage.enterPassword("webinar5");
     loginPage.clickSendButton();
 
+
 }
 }
